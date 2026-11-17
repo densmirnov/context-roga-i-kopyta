@@ -6,8 +6,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "context/ceo-email-launch-request.md",
       "sha256": "befc1702b82cc4000349a5206a59334fc94b574bf01be90aa9cc709acfb3f683",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "86082e23d968cb8fb2c9102bd59a792a72d3e42a09ea1f82781f2e45517d8113"
+      "transformation": "relocation and company name replacement; Nord workshop wording and updated case dates",
+      "adapted_sha256": "b66e277e5531035cee1bdb09911de6fca3aca64c6053c4c92cdd26264c6219dc"
     },
     {
       "path": "02_sources/company/customer-notes.md",
@@ -15,8 +15,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "context/customer-notes.md",
       "sha256": "8fa3239b4371f362c058ee0901d7e257ee002b62e7ea71f51e802da43622ae92",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "7950dc7e2060abdceeb22329ffa6c2ef31e3d50e3f1daa663d01ed371ffa42e8"
+      "transformation": "relocation and company name replacement; Nord workshop wording",
+      "adapted_sha256": "c3e83f1ac7bde3563b57d66c5036db41abc79bf6b56b24b23f7852f32bbfb188"
     },
     {
       "path": "02_sources/company/launch-goal.md",
@@ -24,8 +24,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "context/launch-goal.md",
       "sha256": "0d651f66e159d68ec1dbb9e0636cbee7dcd854bfa311169d45dc82a1c1110b7a",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "8c8b4336ad56e39e7fc8fd748b66b9edd18600356a1e667c81612709e12d6140"
+      "transformation": "relocation and company name replacement; Nord workshop wording",
+      "adapted_sha256": "c036fe900a107890d156d7563791a76b834b2c5df4da1f80565a53cfcf122aa4"
     },
     {
       "path": "04_canonical_context/company-profile.md",
@@ -33,8 +33,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "context/company-profile.md",
       "sha256": "04fe240d56ca4ff12e83dbfe65e9cb061e66e51fb0616b375a0144c850eac65c",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "b5b98bfb83cb534d768f95da1b234c0f2099d457a450c1d56053cb61c725d6fd"
+      "transformation": "relocation and company name replacement; Nord workshop wording",
+      "adapted_sha256": "8bd9800f7ba96826f04f9850f583724f2a628cc0e36fe08a693939b537d79512"
     },
     {
       "path": "04_canonical_context/product-overview.md",
@@ -42,8 +42,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "context/product-overview.md",
       "sha256": "f681a1338caa25a9887275018330f4997a52809f56291d7795d3119096ceba0e",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "9c5fccdf3bd314ad930dbfd6bf7c1e3c41901605d839a43e32f554c0ae12497c"
+      "transformation": "relocation and company name replacement; Nord workshop wording",
+      "adapted_sha256": "d9cd0ad1b71f37019bfb9923f68175185b1acfdc5e77cafd6c594b82f37cf9ee"
     },
     {
       "path": "04_canonical_context/people/nadya-orlova.md",
@@ -51,8 +51,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "context/people/nadya-orlova.md",
       "sha256": "9f9a5e573ea06b15a159b4f1ae4451446323d2b4e0e87c661e3b8f12b5b86e0f",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "ff31bfb1935905d0071e77087b99eb02b06a1bb25c7fc1c2b81bbe7d5d85e1ab"
+      "transformation": "relocation and company name replacement; Nord workshop wording",
+      "adapted_sha256": "29844463e2c6dc78d68f09084a2712c657078e5c53153e3d93a022be82fef225"
     },
     {
       "path": "04_canonical_context/policies/company-ai-rules.md",
@@ -69,8 +69,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "policies/output-rules.md",
       "sha256": "6c48bc0efd98434618bb6fccf08c584735bfe4e0d565f6d8db267b79bdf36962",
-      "transformation": "relocation only",
-      "adapted_sha256": "6c48bc0efd98434618bb6fccf08c584735bfe4e0d565f6d8db267b79bdf36962"
+      "transformation": "relocation only; Nord workshop wording",
+      "adapted_sha256": "b2c0beef5c9022a21c0d4c01a257e0822212badbedd5b3c671871744def76354"
     },
     {
       "path": "02_sources/inputs/approved-launch-goal.md",
@@ -78,8 +78,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "workflows/weekly-launch-update/inputs/approved-launch-goal.md",
       "sha256": "f98d8decc07df770f9a3211370b96fe5ee688cf5e5553947217ff81f40a19d2f",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "626acda68e30f99ce5c830df9c68408cb3c1279e6c6ad0b18cc1cde45b1180ee"
+      "transformation": "relocation and company name replacement; Nord workshop wording and updated case dates",
+      "adapted_sha256": "d87628d7907a0feb830d73e29d7b6511ca19548f44f01e6e9e3a27849e0d79f9"
     },
     {
       "path": "02_sources/inputs/current-week-notes.md",
@@ -87,8 +87,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "workflows/weekly-launch-update/inputs/current-week-notes.md",
       "sha256": "146fd43b3ba957a60b7c78098129c72986a2113642995a418c1466a5bcb516b4",
-      "transformation": "relocation only",
-      "adapted_sha256": "146fd43b3ba957a60b7c78098129c72986a2113642995a418c1466a5bcb516b4"
+      "transformation": "relocation only; Nord workshop wording and updated case dates",
+      "adapted_sha256": "405bd940e76ba9d83a98f6b06b28f4958a2fd11bb93685f03661eb4f58a0d12b"
     },
     {
       "path": "02_sources/inputs/previous-decisions.md",
@@ -96,8 +96,8 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "workflows/weekly-launch-update/inputs/previous-decisions.md",
       "sha256": "4735c84d39cfc0db37e21025ed0247f93e0859fa823fd55602ee21699876bdbc",
-      "transformation": "relocation and company name replacement",
-      "adapted_sha256": "087446f186e8374af358aebebb4cd4a998360b11d33febcdb54261cd4a118538"
+      "transformation": "relocation and company name replacement; Nord workshop wording and updated case dates",
+      "adapted_sha256": "59baf05ee4e18702ddfe149907d19f5076280067d231625398d8eb4bd55d05bc"
     },
     {
       "path": "02_sources/inputs/customer-signals.md",
@@ -105,13 +105,17 @@
       "origin_commit": "b4f82d219dd988ecc00c1153692e13fe3ef5b5f0",
       "origin_path": "workflows/weekly-launch-update/inputs/customer-signals.md",
       "sha256": "4efea90a82fc5078aadd4bb10b1c65c122a423dc9c55f8cd7e481254df035f78",
-      "transformation": "relocation only",
-      "adapted_sha256": "4efea90a82fc5078aadd4bb10b1c65c122a423dc9c55f8cd7e481254df035f78"
+      "transformation": "relocation only; Nord workshop wording and updated case dates",
+      "adapted_sha256": "e022d4473e5d82a63ca23f08f544bcf4d71eb1fad8f4310cb1d1f7dd5a37294d"
     }
   ],
   "adapted_from": {
     "repository": "https://github.com/densmirnov/acme-labs",
     "commit": "a87a7fe547b1f8d61c6c00dbb186427dceda5a4d",
     "path": "context-layer"
+  },
+  "workshop_revision": {
+    "date": "2026-11-17",
+    "report_period": "2026-11-09/2026-11-13"
   }
 }
