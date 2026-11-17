@@ -1,8 +1,6 @@
-# Сводки по источникам источников
+# Сводки по источникам
 
-| Представление | Оригинал | Преобразование |
-|---|---|---|
-| [weekly_signals.md](weekly_signals.md) | [S2](../02_sources/inputs/current-week-notes.md) | Таблица событий, предложений, предположений и пробелов |
-| [customer_signals.md](customer_signals.md) | [S4](../02_sources/inputs/customer-signals.md) | Группировка клиентских сигналов по темам |
+- [`weekly_signals.md`](weekly_signals.md) — события недели, предложения, предположения и пробелы в одной таблице. [Заметки недели](../02_sources/inputs/current-week-notes.md).
+- [`customer_signals.md`](customer_signals.md) — клиентские наблюдения, сгруппированные по темам. [Клиентские сигналы](../02_sources/inputs/customer-signals.md).
 
-Каждый файл сохраняет источник, период и границы вывода. Представление не повышает полномочия оригинала. Порядок сверки и обновления — в [документе 2](../01_cards/02_context_layer_blueprint.md).
+Если формулировка в сводке вызывает вопрос, откройте исходный документ и сверьте статус и период. [Как обновить сводку](../01_cards/02_context_layer_blueprint.md).
