@@ -13,6 +13,8 @@
 
 3. Откройте получившийся `output.md` и проверьте его по [короткому списку](00_START_HERE.md#как-проверить-отчёт).
 
+Посмотрите [черновик с пробного запуска](07_runs/weekly-launch-update/2026-11-17-may18-22-draft/output.md) и [разбор](07_runs/weekly-launch-update/2026-11-17-may18-22-draft/verification.md).
+
 ## Где что лежит
 
 | Папка | Что в ней |

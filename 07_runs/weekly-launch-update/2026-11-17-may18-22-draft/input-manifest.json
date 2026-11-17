@@ -1,0 +1,74 @@
+{
+  "run_id": "2026-11-17-may18-22-draft",
+  "created_at": "2026-11-17T13:07:25.365923+00:00",
+  "report_period": "2026-05-18/2026-05-22",
+  "assignment_revision": "Пакет от 21 сентября 2026; точная редакция и SHA-256 в inputs и манифесте",
+  "workflow_version": "0.2",
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "snapshot": "inputs/AGENTS.md",
+      "sha256": "337d1a9de1676c34d612371910eeb7d7ec2133f3d880b237fa67907d45119d25"
+    },
+    {
+      "path": "06_context_capsules/weekly_launch_update.md",
+      "snapshot": "inputs/06_context_capsules/weekly_launch_update.md",
+      "sha256": "5f92aeda3039558ca13c38a796a187b91c187369aefb2fc07b64bc5648ba6d83"
+    },
+    {
+      "path": "06_context_capsules/workflow-contract.md",
+      "snapshot": "inputs/06_context_capsules/workflow-contract.md",
+      "sha256": "a46f7df363acf06d7618a3d8334fd0802c50bf476f6bbab6c0b6ae8b4bedfe01"
+    },
+    {
+      "path": "04_canonical_context/policies/company-ai-rules.md",
+      "snapshot": "inputs/04_canonical_context/policies/company-ai-rules.md",
+      "sha256": "6b9f3edf87c623d511656778d3c213f28301f5600afafe6dafb79afcd0a23ad6"
+    },
+    {
+      "path": "04_canonical_context/policies/output-rules.md",
+      "snapshot": "inputs/04_canonical_context/policies/output-rules.md",
+      "sha256": "6c48bc0efd98434618bb6fccf08c584735bfe4e0d565f6d8db267b79bdf36962"
+    },
+    {
+      "path": "02_sources/inputs/approved-launch-goal.md",
+      "snapshot": "inputs/02_sources/inputs/approved-launch-goal.md",
+      "sha256": "626acda68e30f99ce5c830df9c68408cb3c1279e6c6ad0b18cc1cde45b1180ee"
+    },
+    {
+      "path": "02_sources/inputs/current-week-notes.md",
+      "snapshot": "inputs/02_sources/inputs/current-week-notes.md",
+      "sha256": "146fd43b3ba957a60b7c78098129c72986a2113642995a418c1466a5bcb516b4"
+    },
+    {
+      "path": "02_sources/inputs/previous-decisions.md",
+      "snapshot": "inputs/02_sources/inputs/previous-decisions.md",
+      "sha256": "087446f186e8374af358aebebb4cd4a998360b11d33febcdb54261cd4a118538"
+    },
+    {
+      "path": "02_sources/inputs/customer-signals.md",
+      "snapshot": "inputs/02_sources/inputs/customer-signals.md",
+      "sha256": "4efea90a82fc5078aadd4bb10b1c65c122a423dc9c55f8cd7e481254df035f78"
+    },
+    {
+      "path": "03_representations/weekly_signals.md",
+      "snapshot": "inputs/03_representations/weekly_signals.md",
+      "sha256": "3e5ebde1edfc318c11405f1d0435610058c8c56eb5d0ce6405f40b7f5743a8eb"
+    },
+    {
+      "path": "04_canonical_context/shared_rules.md",
+      "snapshot": "inputs/04_canonical_context/shared_rules.md",
+      "sha256": "1f55932216ab12e9467ba00899af62842d22889f23400df305455b54706a32e0"
+    },
+    {
+      "path": "05_current_context/weekly_launch_inputs.md",
+      "snapshot": "inputs/05_current_context/weekly_launch_inputs.md",
+      "sha256": "f3fd49d02476c969ddcaee9f578beea8b0c3276792a79f6166ac26bd273ffd30"
+    },
+    {
+      "path": "SOURCE_PROVENANCE.json",
+      "snapshot": "inputs/SOURCE_PROVENANCE.json",
+      "sha256": "fed0b6a71a38ab2404740242b7c78bc92a0ed622f73f3776202a30763e72b2fa"
+    }
+  ]
+}
