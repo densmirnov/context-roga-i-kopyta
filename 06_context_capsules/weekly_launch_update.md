@@ -4,9 +4,10 @@
 
 ## Какие файлы прочитать
 
-- **Исходные документы:** [утверждённая цель](../01_sources/inputs/approved-launch-goal.md), [заметки недели](../01_sources/inputs/current-week-notes.md), [решения прошлой встречи](../01_sources/inputs/previous-decisions.md) и [наблюдения клиентов](../01_sources/inputs/customer-signals.md).
-- **Сводки:** [заметки по статусам](../02_representations/weekly_signals.md) и [состояние запуска на конец недели](../04_current_context/launch_state.md). Спорные сведения сверяй с исходным документом.
-- **Правила:** [какие данные можно использовать](../03_canonical_context/policies/company-ai-rules.md), [как применять решения](../03_canonical_context/shared_rules.md) и [как оформить отчёт](../03_canonical_context/policies/output-rules.md).
+- **Карточка:** [задача, источники, правила и проверка](../01_cards/CONTEXT.md). Это краткий обзор для передачи коллеге.
+- **Исходные документы:** [утверждённая цель](../02_sources/inputs/approved-launch-goal.md), [заметки недели](../02_sources/inputs/current-week-notes.md), [решения прошлой встречи](../02_sources/inputs/previous-decisions.md) и [наблюдения клиентов](../02_sources/inputs/customer-signals.md).
+- **Сводки:** [заметки по статусам](../03_representations/weekly_signals.md) и [состояние запуска на конец недели](../05_current_context/launch_state.md). Спорные сведения сверяй с исходным документом.
+- **Правила:** [какие данные можно использовать](../04_canonical_context/policies/company-ai-rules.md), [как применять решения](../04_canonical_context/shared_rules.md) и [как оформить отчёт](../04_canonical_context/policies/output-rules.md).
 
 Правила и ограничения учитывай в первую очередь. Утверждённые решения имеют приоритет над рабочими заметками. Если обязательного документа нет, данные недопустимы или два источника одного уровня противоречат друг другу, остановись, укажи проблему и попроси уточнение.
 
